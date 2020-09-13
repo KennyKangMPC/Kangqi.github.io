@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Kangqi Fu"
   avatar           : "Kangqi.jpg"
-  bio              : "Senior Undergraduate Student \n - AMEP (Applied Math, Physics, Engineer) \n - Computer Science"
+  bio              : "Senior Undergraduate Student \br - AMEP (Applied Math, Physics, Engineer) \br - Computer Science"
   location         : "Madison, Wisconsin"
   employer         :
   pubmed           : 
