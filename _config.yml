@@ -82,8 +82,7 @@ analytics:
 author:
   name             : "Kangqi Fu"
   avatar           : "Kangqi.jpg"
-  bio              : "Senior Undergraduate Student"
-  major            : "AMEP(Applied Math, Physics, Engineering), CS"
+  bio              : "Senior Undergraduate Student - \n AMEP, CS"
   location         : "Madison, Wisconsin"
   employer         :
   pubmed           : 
@@ -104,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
