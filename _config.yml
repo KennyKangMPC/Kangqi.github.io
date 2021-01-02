@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Welcome to Kangqi Fu's Homepage"
+title                    : "Welcome to Quanling Deng's Homepage"
 title_separator          : "-"
-name                     : &name "Kangqi Fu"
+name                     : &name "Quanling Deng"
 description              : &description "personal description"
-url                      : https://kennykangmpc.github.io/Kangqi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://QuanlingDeng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "KennyKangMPC/Kangqi.github.io"
+repository               : "QuanlingDeng/QuanlingDeng.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kangqi Fu"
-  avatar           : "Kangqi.jpg"
-  bio              : "Senior Undergraduate Student<br/>BS-AMEP (Applied Math, Physics, Engineer)<br/>BS Computer Science"
+  name             : "Quanling Deng"
+  avatar           : "QuanlingDeng.jpg"
+  bio              : "Van Vleck Visiting Assistant Professor"
   location         : "Madison, Wisconsin"
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=PBGaQ44AAAAJ&hl=en"
   email            :
-  researchgate     :
+  researchgate     : "https://www.researchgate.net/profile/Quanling_Deng"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "KennyKangMPC"
+  github           : "QuanlingDeng"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : #"https://orcid.org/0000-0002-6159-1233"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          :
   vine             :
   weibo            :
   xing             :
