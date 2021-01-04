@@ -43,3 +43,4 @@ Kangqi Fu was born in Beijing, China. He moved to the United States to study phy
   
   - This following video shows the Winter-like sea ice dynamics with ice floes fracturing, forming, and welding
   	<video src="https://kennykangmpc.github.io/Kangqi.github.io/files/WinterIce.mp4" width="640" height="400" controls preload></video>
+* Stay tuned for more
