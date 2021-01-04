@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Quanling Deng"
-  avatar           : "QuanlingDeng.jpg"
-  bio              : "Van Vleck Visiting Assistant Professor"
+  name             : "Kangqi Fu"
+  avatar           : "Kangqi.jpg"
+  bio              : "Physics, Math, and Computer Science Senior Year Undergraduate"
   location         : "Madison, Wisconsin"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=PBGaQ44AAAAJ&hl=en"
+  googlescholar    : #"https://scholar.google.com/citations?user=PBGaQ44AAAAJ&hl=en"
   email            :
-  researchgate     : "https://www.researchgate.net/profile/Quanling_Deng"
+  researchgate     : #"https://www.researchgate.net/profile/Quanling_Deng"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "QuanlingDeng"
+  github           : "KennyKangMPC"
   google_plus      :
   keybase          :
   instagram        :
