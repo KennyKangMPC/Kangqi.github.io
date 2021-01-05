@@ -47,7 +47,7 @@ Kangqi Fu was born in Beijing, China. He moved to the United States to study phy
 * Coarse Scale Modeling and Conservation Law solver
 * Planetary trajectory Optimization
   - This project focused on finding the optimal path a space probe could take while traveling in the inner solar system. The model we created accounts for the gravity that large celestial objects produce, as well as their orbits. The report can be found [here](https://kennykangmpc.github.io/Kangqi.github.io/files/PlanetaryTrajectoryOpt.html)
-    <img src="https://kennykangmpc.github.io/Kangqi.github.io/images/output_27_0.png" width="400" height="400" controls preload></img>
-    <img src="https://kennykangmpc.github.io/Kangqi.github.io/images/output_38_0.png" width="400" height="400" controls preload></img>
+    <img src="https://kennykangmpc.github.io/Kangqi.github.io/images/output_27_0.png" width="450" height="400" controls preload></img>
+    <img src="https://kennykangmpc.github.io/Kangqi.github.io/images/output_38_0.png" width="450" height="400" controls preload></img>
 * Interesting Paper Re-Implementation for Practice 
   - Felipe Vico, Leslie Greengard, Miguel Ferrando. "Fast convolution with free-space Green's functions. Journal of computational physics 323 (2016), 191-203.
