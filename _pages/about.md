@@ -44,9 +44,12 @@ Kangqi Fu was born in Beijing, China. He moved to the United States to study phy
   - This following video shows the Winter-like sea ice dynamics with ice floes fracturing, forming, and welding
   	<video src="https://kennykangmpc.github.io/Kangqi.github.io/files/WinterIce.mp4" width="640" height="400" controls preload></video>
 * Deep Learning Sea Ice Tracking
+  - Stay tuned for updates!
 * Coarse Scale Modeling and Conservation Law solver
+  - Stay tuned for updates!
 * Planetary trajectory Optimization
   - This project focused on finding the optimal path a space probe could take while traveling in the inner solar system. The model we created accounts for the gravity that large celestial objects produce, as well as their orbits. The report can be found [here](https://kennykangmpc.github.io/Kangqi.github.io/files/PlanetaryTrajectoryOpt.html)
     <img src="https://kennykangmpc.github.io/Kangqi.github.io/images/output_38_0.png">
 * Interesting Paper Re-Implementation for Coding Practice 
   - Reimplement Felipe Vico, Leslie Greengard, Miguel Ferrando. "Fast convolution with free-space Green's functions. Journal of computational physics 323 (2016), 191-203. My code can be found [here](https://github.com/KennyKangMPC/FastConvolutionFSGF)
+  - Stay tuned for more!
