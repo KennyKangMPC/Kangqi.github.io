@@ -47,7 +47,7 @@ Kangqi Fu was born in Beijing, China. He moved to the United States to study phy
   - Codes can be found [here](https://github.com/KennyKangMPC/SeaIceDeepLearning)
   - Keep Updating!
 * Coarse Scale Modeling and Conservation Law solver(with cartesian grid implementation)
-  - Codes can be found [here](https://github.com/KennyKangMPC/CoarseScale-Solver)
+  - Codes can be found [here](https://github.com/KennyKangMPC/CoarseScale-Solver). Need to be organized.
   - Keep Updating!
 * Metasurface-Integrated Buried-Heterostructure Quantum Cascade Lasers for Programmable Directional Lasing Emissions
   - This project is the final project of Physics 625, Advnaced Optics. In this project, my partner, Zerio Liu, and I presented a novel hybird laser system by combining the buried-heterostructure quantum cascade lasers (BH-QCLs) and a diffractive metalens consisting of cylindrical nanorods. This system could be used for programmable directional lasing emissions. The simulation was done by COMSOL and MATLAB. The report can be found [here](https://kennykangmpc.github.io/Kangqi.github.io/files/Physics_625_Final%20Report.pdf). 
