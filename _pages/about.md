@@ -34,7 +34,7 @@ Kangqi Fu was born in Beijing, China. He moved to the United States to study phy
     <video src="https://kennykangmpc.github.io/Kangqi.github.io/files/0423osiam.mp4" width="640" height="400" controls preload></video>
 
 * SeaIce Modeling
-  - This following video shows the sea ice motion with subfloes generation. More process including fracturing, riding, packing will be updated soon. Current code is [here](https://github.com/KennyKangMPC/JuliaIceFloe) 
+  - This following video shows the sea ice motion with subfloes generation. More process including fracturing, riding, packing will be updated soon. Current code is compiled in Julia and the visualization is done by MATLAB. The code is [here](https://github.com/KennyKangMPC/JuliaIceFloe) 
   	<video src="https://kennykangmpc.github.io/Kangqi.github.io/files/testJulia.mp4" width="640" height="400" controls preload></video>
 * Deep Learning Sea Ice Tracking
   - Codes can be found [here](https://github.com/KennyKangMPC/SeaIceDeepLearning)
