@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Kangqi Fu was born in Beijing, China. He moved to the United States to study physics, applied and computational Math, and computer science in August 2018 and will graduate with a BS in [AMEP](https://www.math.wisc.edu/amep) (Applied Math, Physics, and Engineering) and [Computer Science](https://www.cs.wisc.edu/) at the University of Wisconsin Madison in May 2021. He enjoys coding and problem-solving in general. When he is not working, he usually plays video games and makes beats with his friends. 
+Kangqi Fu was born in Beijing, China. He moved to the United States to study physics, applied and computational Math, and computer science in August 2018 and will graduate with a BS in [AMEP](https://www.math.wisc.edu/amep) (Applied Math, Physics, and Engineering) and [Computer Science](https://www.cs.wisc.edu/) at the University of Wisconsin Madison in May 2021. He enjoys coding and problem-solving in general. When he is not working, he usually plays video games and makes beats with his friends.
 
 
 # Projects
