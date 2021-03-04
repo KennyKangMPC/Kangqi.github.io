@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Kangqi Fu was born in Beijing, China. He moved to the United States to study physics, applied and computational Math, and computer science in August 2018 and will graduate with a BS in [AMEP](https://www.math.wisc.edu/amep) (Applied Math, Physics, and Engineering) and [Computer Science](https://www.cs.wisc.edu/) at the University of Wisconsin Madison in May 2021. He enjoys coding and problem-solving in general. When he is not working, he usually plays video games and makes beats with his friends. <!---After three years in Madison, in September 2021, he will go to NYC to pursue applied and computational math Ph.D. degree at [Courant Institute of Mathematical Sciences](https://www.courant.nyu.edu/).---> His CV is [here](https://kennykangmpc.github.io/Kangqi.github.io/files/KangqiCV.pdf)
+Kangqi Fu was born in Beijing, China. He moved to the United States to study physics, applied and computational Math, and computer science in August 2018 and will graduate with a BS in [AMEP](https://www.math.wisc.edu/amep) (Applied Math, Physics, and Engineering) and [Computer Science](https://www.cs.wisc.edu/) at the University of Wisconsin Madison in May 2021. He enjoys coding and problem-solving in general. When he is not working, he usually plays video games and makes beats with his friends. <!---After three years in Madison, in September 2021, he will probably go to NYC to pursue applied and computational math Ph.D. degree at [Courant Institute of Mathematical Sciences](https://www.courant.nyu.edu/).---> His CV is [here](https://kennykangmpc.github.io/Kangqi.github.io/files/KangqiCV.pdf)
 
 
 # Projects
