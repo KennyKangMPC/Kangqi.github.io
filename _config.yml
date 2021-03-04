@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Kangqi Fu"
   avatar           : "WinterMe.jpg"
-  bio              : "Physics, Math, and Computer Science Senior Year Undergraduate"
+  bio              : "Physics, Math, and Computer Engineering Senior Year Undergraduate"
   location         : "Madison, Wisconsin"
   employer         :
   pubmed           : 
@@ -94,7 +94,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : 
   foursquare       :
   github           : "KennyKangMPC"
   google_plus      :
@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-
+  wechat		   : "ShaMoGuLangMPC"
 
 # Reading Files
 include:
